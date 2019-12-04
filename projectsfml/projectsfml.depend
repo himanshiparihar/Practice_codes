@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1567819229 source:/home/himanshi/Desktop/python/projectsfml/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Config.hpp>
+	<SFML/Main.hpp>
+	<unistd.h>
+	<iostream>
+	<stdlib.h>
+	"snake.h"
+
+1567818237 source:/home/himanshi/Desktop/python/projectsfml/test.cpp
+
+1567817930 /home/himanshi/Desktop/python/projectsfml/snake.h
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Config.hpp>
+	<SFML/Main.hpp>
+	<unistd.h>
+	<iostream>
+
+1567818189 source:/home/himanshi/Desktop/python/projectsfml/snake.cpp
+	"snake.h"
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<SFML/Window.hpp>
+	<SFML/Config.hpp>
+	<SFML/Main.hpp>
+	<unistd.h>
+	<iostream>
+	<utility>
+

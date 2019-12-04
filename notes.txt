@@ -1,0 +1,21 @@
+#vicky05soni@gmail.com
+# min(range) for min value
+# max (range) for max value
+#histogram tell frequency
+#bins is gap
+#left and right skewed
+#mean median(statistic) for temp
+#what should i do next(reinforcement)
+rmse,mse,auc error in regression
+	type of regression-linear regression,random forest
+classification-
+	type : binary classification
+	confusion matrix:true positive ,false positive,true negative ,false negative,classifier
+	logistic regression-classification alog.
+unsupervised learning
+    algo clustering
+fitting:
+	overfitting:extra feature
+	underfittiing:less feature
+	regular fit:accurate feature
+	regularisation:l1 and l2 (can only correct overfit)

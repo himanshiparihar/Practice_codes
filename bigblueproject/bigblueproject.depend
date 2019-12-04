@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1567654095 source:/home/himanshi/Desktop/python/bigblueproject/bigbluemain.cpp
+	<SFML/Window.hpp>
+	<SFML/Graphics.hpp>
+	<SFML/System.hpp>
+	<vector>
+

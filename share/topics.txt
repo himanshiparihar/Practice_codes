@@ -1,0 +1,85 @@
+1. First install `remmina` for screen viewing, by:
+	1. sudo apt-get install remmina remmina-plugin-*
+
+2. Go to search bar on top right icon and search:
+	1. remmina and open it
+	2. Once it is open, click on the new.
+	3. First change protocol to: VNC- Virtual Network Computing 
+	3. In server put : 192.168.43.230
+	4. In User name put : udit
+	5. Password : usp@0030
+	6. Click on `Show remote cursor` and then click connect.
+
+3. Linux commands:
+	1. Linux/Ubuntu commands:
+		ls – directory listing
+		ls -al – formatted listing with hidden files
+		cd dir - change directory to dir
+		cd – change to home
+		pwd – show current directory
+		mkdir dir – create a directory dir
+		rm file – delete file
+		rm -r dir – delete directory dir
+		rm -f file – force remove file
+		rm -rf dir – force remove directory dir *
+		cp file1 file2 – copy file1 to file2
+		cp -r dir1 dir2 – copy dir1 to dir2; create dir2 if it doesn't exist
+		mv file1 file2 – rename or move file1 to file2 if file2 is an existing directory, moves file1 into directory file2
+		touch file – create or update file
+		cat file.txt – shows contents of file on terminal
+		head file – output the first 10 lines of file
+		tail file – output the last 10 lines of file
+		clear - clears the terminal
+		
+	2. Shortcut:
+		Ctrl+c – halts the current command
+		Ctrl+r – type to bring up a recent command
+		Ctrl+l - clears the terminal
+		Ctrl+shift+c - copy
+		Ctrl+shift+v - paste
+
+	3. Further commands: https://gist.github.com/riipandi/3097780
+
+	4. Installing/Removing softwares:
+		1. Update the softwares:
+			1. sudo apt update
+		2. Install package:
+			1. sudo apt install <package_name>
+			2. eg. : sudo apt install <htop>
+		3. Remove packages:
+			1. sudo apt remove <package_name>
+
+4. Python basics:
+	1. Python input and output
+	2. list, tuples, dicts, class, sorting
+	3. loops - for and while
+	5. Numpy - Python matrix library
+	6. Further reference - http://cs231n.github.io/python-numpy-tutorial/
+
+5. Installing via python package manager : pip
+	1. pip install <package_name>
+
+6. Useful softwares:
+	1. synaptic
+	2. terminator
+	3. htop
+
+7. Git commands:
+	1. Sign up for github.
+	2. git clone <url>
+
+
+8. Demo
+	. -> Current directory
+	.. -> Previous directory
+	/home/udit == ~
+	command <option> <argument>
+	subl <file.txt>
+	root = master = higher priveleged commands = sudo
+	apt install = binaries = which can lauch from terminal
+
+9. Demo python
+	if __name__ == '__main__':		# boiler plate
+	Class:
+		Data variable should be define with self.
+		First argument should always be self in function

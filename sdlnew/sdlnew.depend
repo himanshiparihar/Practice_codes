@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567560100 source:/home/himanshi/Desktop/python/sdlnew/sdltest.cpp
+	<SDL2/SDL.h>
+	<iostream>
+
